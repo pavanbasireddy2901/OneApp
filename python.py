@@ -1,3 +1,5 @@
 print("hello world") 
 print("name")
 print("sername")
+print("add")
+print("age")
